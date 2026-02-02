@@ -35,7 +35,7 @@ Code Documentation Navigator allows developers to ask natural-language questions
 - Faster debugging and exploration
 
 ## 👥 Team
-Built by a team of 3 as part of ''Gen AI 4 Gen Z Hackathon 2026''.
+Built as part of ''Gen AI 4 Gen Z Hackathon 2026''.
 
 ## 📄 License
 This project is licensed under the MIT License.
