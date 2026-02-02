@@ -37,7 +37,8 @@ The system is built using a Retrieval-Augmented Generation (RAG) pipeline to ena
 ## System Architecture Diagram
 
 flowchart LR
-    A[Developer / User] --> B[Query Interface]
+    A[Developer / User] 
+    --> B[Query Interface]
     B --> C[RAG Engine]
     C --> D[Vector Database]
     D --> C
