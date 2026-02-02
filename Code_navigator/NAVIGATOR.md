@@ -50,3 +50,7 @@ Upload your Python code using the interface.
 Click on Analyze Code.
 
 The analyzed and navigated Python code will be displayed!
+
+Demo video link is attached below:
+
+https://drive.google.com/file/d/18TIhY0eDLwLsc1yb1GO_W4LJMVtvODxc/view?usp=drive_link
