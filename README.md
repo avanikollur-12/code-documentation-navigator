@@ -1,5 +1,73 @@
 # Code Documentation Navigator
 
+A simple Python Streamlit app that analyzes Python code and generates a **navigable structure** of functions, classes, and imports.  
+This tool helps developers and learners quickly understand unfamiliar code.
+
+---
+
+## 🛠️ Getting Started
+
+Follow these steps to run the Code Navigator locally.
+
+### Requirements
+- Python 3.11 or higher
+- Streamlit library
+
+### Installation
+1. Clone the repository (or download as ZIP):
+   ```bash
+   git clone https://github.com/avanikollur-12/code-documentation-navigator.git
+   cd code-documentation-navigator
+Install Streamlit:
+
+pip install streamlit
+Running the App
+Open a terminal or PowerShell in the project folder.
+
+Run the Streamlit app:
+
+streamlit run app.py
+A browser window should open automatically.
+If not, open your browser and go to:
+
+http://localhost:8501
+Using the App
+Paste any Python code into the text area.
+
+Click Analyze Code.
+
+View detected functions, classes, and imports in the sidebar.
+
+🚀 Features
+Detects functions and classes in Python code
+
+Lists imports
+
+Shows line numbers for navigation
+
+Easy-to-use Streamlit interface
+
+Lightweight and fast
+
+📌 Notes
+Works best with Python source files
+
+Make sure file names are correct (app.py and parser.py)
+
+Can be extended with explanations or TL;DR summaries per function
+
+🎬 Demo 
+Demo Video:
+
+💡 Future Improvements
+Add AI-based explanations for each function/class
+
+Multi-language code support
+
+Search and filter features for large projects
+
+# Code Documentation Navigator
+
 An AI-powered code understanding tool that uses Retrieval-Augmented Generation (RAG) to help developers quickly navigate, explain, and onboard onto large GitHub repositories.
 
 ## 🚀 Problem Statement
