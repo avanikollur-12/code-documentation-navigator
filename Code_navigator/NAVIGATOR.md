@@ -1,5 +1,15 @@
 
 Code Documentation Navigator
+
+The Navigator leverages Python and Streamlit to provide an interactive interface where users can upload their Python scripts and instantly get a navigated version of the code. It parses the code, identifies key elements like functions, classes, and comments, and presents them in an organized format. This helps users:
+
+Quickly understand unfamiliar code
+
+Improve code readability and documentation
+
+Save time during code review and learning
+
+With a simple setup, the Code Documentation Navigator transforms any Python file into a visually navigable format, making code comprehension faster, easier, and more intuitive.
 Practical Application
 
 A zip file named Code_navigator.zip is provided which contains:
@@ -24,10 +34,11 @@ Open Windows PowerShell or Command Prompt.
 
 Navigate to the extracted folder:
 
-cd C:\Code_navigator
-
-
 Run the Streamlit app:
+
+Copy the two lines given below:
+
+cd C:\Code_navigator
 
 streamlit run app.py
 
