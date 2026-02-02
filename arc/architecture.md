@@ -36,7 +36,6 @@ The system is built using a Retrieval-Augmented Generation (RAG) pipeline to ena
 
 ## System Architecture Diagram
 
-```mermaid
 flowchart LR
     A[Developer / User] --> B[Query Interface]
     B --> C[RAG Engine]
