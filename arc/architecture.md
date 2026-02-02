@@ -1,4 +1,4 @@
-# Methodology of Code Documentation Navigator
+# Architecture of Code Documentation Navigator
 
 ## Aim
 To help developers explore and understand any codebase using natural language queries backed by precise code context.
